@@ -3,4 +3,5 @@ django_cache
 *.log
 *.sqlite3
 .env
+.vscode
 todo.txt
