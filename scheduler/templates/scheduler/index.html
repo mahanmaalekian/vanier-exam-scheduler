@@ -1,0 +1,20 @@
+{% extends "scheduler/layout.html" %}
+{% load static %}
+
+
+{%block body%}
+<section class="home">
+  <div class="home-img">
+    <img src="{% static 'scheduler/images/Writing.png' %}" alt="main-image">
+  </div>
+  <div class="home-content">
+    <h1>Welcome to</h1>
+    <h1><span>Vanier Exam Scheduler</span></h1>
+    <br>
+    <p>Effortlessly add your exams to your calendar!</p>
+    <p>Just search, click add, and export...</p>
+  <a href="{% url 'search' %}" class="btn">START PLANNING</a>
+  </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,61 @@
+{% extends "scheduler/layout.html" %}
+{% load static %}
+
+{%block body%}
+<section class="home">
+<div class="home-content">
+<h1>Calendar</h1>
+
+
+{% if exams %}
+<div id="calendar-body">
+    <div class="table-container">
+        <table class="">
+            <thead>
+            <tr>
+                <th scope="col">Date</th>
+                <th scope="col">Course ID</th>
+                <th scope="col">Section ID</th>
+                <th scope="col">Description</th>
+                <th scope="col">Teacher</th>
+                <th scope="col">Start Time</th>
+                <th scope="col">End Time</th>
+                <th scope="col">Room Number</th>
+                <th scope="col">Row</th>
+                <th scope="col">Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for exam in exams %}
+                <tr id="tr-{{exam.id}}">
+                    <td>{{ exam.date }}</td>
+                    <td>{{ exam.course_id }}</td>
+                    <td>{{ exam.section_id }}</td>
+                    <td>{{ exam.description }}</td>
+                    <td>{{ exam.teacher}}</td>
+                    <td>{{ exam.start_time }}</td>
+                    <td>{{ exam.end_time}}</td>
+                    <td>{{ exam.room_number}}</td>
+                    <td>{{ exam.row|default_if_none:""}}</td>
+                    <td class="action-buttons-container"><button class="btn btn-remove" id="td-{{exam.id}}" onclick="removeFromCalendar(`tr-{{exam.id}}`)">Remove</button>
+                    <button class="btn" onclick="addToGoogleCalendar(this)"><i class="fa-brands fa-google"></i></button></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+        </table>
+
+    </div>
+    <button id="btn-download" class= "btn btn-download" onclick="createDownloadICSFile()">Export Cal <i class="fa-solid fa-download"></i></button>
+</div>
+
+{% else %}
+    <p>Calendar is empty</p>
+{% endif %}
+
+</div>
+</section>
+{% endblock %}
+
+{% block script %}
+    <script src="{% static 'scheduler/js/calendar.js' %}"></script>
+{% endblock %}

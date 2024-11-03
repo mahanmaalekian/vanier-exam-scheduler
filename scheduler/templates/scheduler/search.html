@@ -1,0 +1,73 @@
+{% extends "scheduler/layout.html" %}
+{% load static %}
+
+{%block body%}
+<section class="home">
+<div class="home-content">
+
+<br>
+{% if not queried %}
+<h1>Search</h1>
+<p>Find your exam schedule by entering the course code (e.g. 203NYA05) or the course name (e.g. Mechanics). 
+Feel free to search more broadly using part of the course code or part of the course name.</p>
+<p>To add an exam to your calendar, just click the button. When you're finished, head over to the Calendar section to export your customized schedule!
+</p>
+{% else %}
+<h1>Results</h1>
+    {% if exams %}
+        <div class="table-container ">
+            <table>
+                <thead>
+                <tr>
+                    <th scope="col">Date</th>
+                    <th scope="col">Course ID</th>
+                    <th scope="col">Section ID</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Teacher</th>
+                    <th scope="col">Start Time</th>
+                    <th scope="col">End Time</th>
+                    <th scope="col">Room Number</th>
+                    <th scope="col">Row</th>
+                    <th scope="col">Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for exam in exams %}
+                    <tr>
+                        <td>{{ exam.date |date:"Y-m-d"}} </td>
+                        <td>{{ exam.course_id }} </td>
+                        <td>{{ exam.section_id }} </td>
+                        <td>{{ exam.description }} </td>
+                        <td>{{ exam.teacher}} </td>
+                        <td>{{ exam.start_time|time:"H:i:s" }} </td>
+                        <td>{{ exam.end_time|time:"H:i:s"}} </td>
+                        <td>{{ exam.room_number}} </td>
+                        <td>{{ exam.row|default_if_none:""}} </td>
+                        {%if exam.id in session%}
+                        <td><button class="btn btn-calendar"  disabled id="{{exam.id}}">Added</button></td>
+                        {%else%}
+                        <td><button class="btn btn-calendar" id="{{exam.id}}" onclick="addToCalendar('{{exam.id}}')">Add To Calendar</button></td>
+                        {%endif%}
+                    </tr>
+                {% endfor %}
+            </tbody>
+            </table>
+        </div>
+    {% else %}
+        <p>No exams found</p>
+    {% endif %}
+{% endif %}
+<form id="searchForm" method="post" action="{% url 'search' %}">
+    {% csrf_token %}
+    <input class="search-bar" type="text" name="q" required placeholder="Search for exam..." value="{{ query }}">
+    <button class="btn btn-search" type="submit">    <i class="fas fa-search"></i>
+    </button>
+</form>
+<a class="btn" href="{% url 'calendar' %}">Go to Calendar</a>
+    </div>
+</section>
+{% endblock %}
+
+{% block script %}
+    <script src="{% static 'scheduler/js/search.js' %}"></script>
+{% endblock %}

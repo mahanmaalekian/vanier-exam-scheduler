@@ -1,0 +1,6 @@
+*.pyc
+django_cache
+*.log
+*.sqlite3
+.env
+todo.txt
