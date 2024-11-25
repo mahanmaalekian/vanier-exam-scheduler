@@ -62,10 +62,10 @@ Apply the database migrations to set up the required tables:
 ### 5. Load exam data
 - `python manage.py import_exams A24FinalExam-nov12-2024.csv`
 
-### 7. Run the development server
+### 6. Run the development server
 Start the Django server locally:
 - `python manage.py runserver`
 
-### 8. Access the application
+### 7. Access the application
 Open your browser and go to:
 - `http://127.0.0.1:8000/`
