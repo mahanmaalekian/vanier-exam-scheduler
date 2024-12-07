@@ -1,0 +1,221 @@
+date,course_id,section_id,description,teacher,start_time,end_time,room_number,row
+2024-12-10,221330VA,01-02,Residential Construction,Layla MacLeod,8:00:00,12:00:00,N526/N536,
+2024-12-10,101324VA,1,Anatomy and Physiology II for,Heather Roffey,9:00:00,12:00:00,N426/N436,
+2024-12-10,101324VA,2,Anatomy and Physiology II for,Heather Roffey,9:00:00,12:00:00,N426/N436,
+2024-12-10,141HSE04,01-02-03,"Pulmonary testing, Diagnostic",Melanie Freitas,9:00:00,12:00:00,D508,
+2024-12-10,201103VA,1,Calculus I,Luigi Bilotto,9:00:00,12:00:00,GYM,Q
+2024-12-10,201105VA,1,Linear Algebra,Galyna P. Feshchenko,9:00:00,12:00:00,N522,
+2024-12-10,201105VA,2,Linear Algebra,Petr Zorin,9:00:00,12:00:00,N426/N436,
+2024-12-10,201107VA,1,Calculus I for Social Science,Ellen Cooper,9:00:00,12:00:00,GYM,"A,B"
+2024-12-10,201107VA,2,Calculus I for Social Science,Alhan Shahab Al-De Zahrai,9:00:00,12:00:00,GYM,"C,D"
+2024-12-10,201107VA,3,Calculus I for Social Science,Naira Harutyunyan,9:00:00,12:00:00,GYM,"E,F"
+2024-12-10,201107VA,4,Calculus I for Social Science,Luigi Bilotto,9:00:00,12:00:00,GYM,"M,N"
+2024-12-10,201107VA,5,Calculus I for Social Science,Luigi Bilotto,9:00:00,12:00:00,GYM,"O,P"
+2024-12-10,201107VA,6,Calculus I for Social Science,Naira Harutyunyan,9:00:00,12:00:00,GYM,"G,H"
+2024-12-10,201107VA,7,Calculus I for Social Science,Antoine Khalil,9:00:00,12:00:00,GYM,"I,J"
+2024-12-10,201107VA,8,Calculus I for Social Science,Florian Duquerroix,9:00:00,12:00:00,GYM,"K,L"
+2024-12-10,202001RE,01-02,Mise à niveau pour Chimie de,Salvatore Ruffolo,9:00:00,12:00:00,GYM,"W,X"
+2024-12-10,202114VA,1,Chemistry for EWM,Thi Ngoc-Thanh Vu,9:00:00,12:00:00,A569,
+2024-12-10,202314VA,1,Solutions Chemistry and Lab I,Thi Ngoc-Thanh Vu,9:00:00,12:00:00,A569,
+2024-12-10,551111VA,1,History I,Catrena Marie Flint,9:30:00,12:00:00,B223,
+2024-12-10,551111VA,2,History I,Philippe Bourque,9:30:00,12:00:00,B223,
+2024-12-10,551211VA,1,History II,Catrena Marie Flint,9:30:00,12:00:00,A204,
+2024-12-10,551311VA,1,History III,Catrena Marie Flint,9:30:00,12:00:00,A250,
+2024-12-10,551311VA,2,History III,Catrena Marie Flint,9:30:00,12:00:00,A250,
+2024-12-10,221191VA,01-02-03,Principles of Thermodynamics,Ilye Meldrum,10:00:00,12:00:00,A109,
+2024-12-10,101124VA,1,Cell Biology and Genetics for,Heather Roffey,13:00:00,16:00:00,N426/N436,
+2024-12-10,101124VA,2,Cell Biology and Genetics for,Heather Roffey,13:00:00,16:00:00,N426/N436,
+2024-12-10,201NYA05,2,Calculus I,Thomas Henry Hughes,13:00:00,16:00:00,N522,
+2024-12-10,201NYC05,1,Linear Algebra,Christian Stahn,13:00:00,16:00:00,GYM,"A,B"
+2024-12-10,201NYC05,2,Linear Algebra,Farid Sandoghdar,13:00:00,16:00:00,GYM,"C,D"
+2024-12-10,201NYC05,3,Linear Algebra,Anna Ewa Krasowska,13:00:00,16:00:00,GYM,"G,H"
+2024-12-10,201NYC05,4,Linear Algebra,Farid Sandoghdar,13:00:00,16:00:00,GYM,"E,F"
+2024-12-10,201NYC05,5,Linear Algebra,Martin Daniel Caberlin,13:00:00,16:00:00,GYM,"I,J"
+2024-12-10,201NYC05,6,Linear Algebra,Isaac Sabbah,13:00:00,16:00:00,GYM,"K,L"
+2024-12-10,201NYC05,7,Linear Algebra,Elena Naidenova,13:00:00,16:00:00,GYM,"M,N"
+2024-12-10,201NYC05,8,Linear Algebra,Ashkan Zahedi Khomeyrani,13:00:00,16:00:00,GYM,"O,P"
+2024-12-10,201NYC05,9,Linear Algebra,Nikko Contino,13:00:00,16:00:00,GYM,"Q,R"
+2024-12-10,201NYC05,10,Linear Algebra,Sherif Wagdy Nashaat,13:00:00,16:00:00,GYM,"S,T"
+2024-12-10,201NYC05,12,Linear Algebra,Adrian Bradley,13:00:00,16:00:00,GYM,"U,V"
+2024-12-10,201NYC05,11,Linear Algebra,Bahareh Mirza Hossein,13:00:00,16:00:00,GYM,"W,X"
+2024-12-10,221580VA,01-02,Project Management,Giuseppe Bellantoni,13:00:00,16:00:00,N526/N536,
+2024-12-10,247305VA,1,Embedded Linux Computer,Andreea Iftimie,13:00:00,16:00:00,C418,
+2024-12-10,247512VA,1,Digital Systems Design Using,Day Yann Fong,13:00:00,16:00:00,D541,
+2024-12-10,345102MQ,01-02-03,World Views,Marlene Eberhart,13:00:00,16:00:00,N124,
+2024-12-10,551105VA,1,Ear Training I,Alan Campbell,13:00:00,14:30:00,A250,
+2024-12-10,551105VA,2,Ear Training I,Glen Ethier,13:00:00,14:30:00,A250,
+2024-12-10,551105VA,03-04,Ear Training I,Roderick Philip Shergold,13:00:00,14:30:00,A250,
+2024-12-10,551105VA,5,Ear Training I,Scott Alexander Cook,13:00:00,14:30:00,A250,
+2024-12-10,551205VA,1,Ear Training II,Alan Campbell,13:00:00,14:30:00,A277,
+2024-12-10,551305VA,1,Ear Training III,Scott Alexander Cook,14:30:00,16:00:00,A250,
+2024-12-10,551305VA,2,Ear Training III,Roderick Philip Shergold,14:30:00,16:00:00,A250,
+2024-12-11,141HSA04,01-02-03,Introduction the Profession - Oral,Jennifer Piette,8:00:00,16:00:00,D410,
+2024-12-11,141HSB05,01-02-03,Basic Instrumentation- Oral,Sharon Sagman,8:00:00,16:00:00,D410,
+2024-12-11,141HSE04,01-02-03,"Pulmonary testing, Diagnostic",Melanie Freitas,8:00:00,16:00:00,D442,
+2024-12-11,141HSG05,01-02-03,Mechanical Ventilators-Oral,Irene-Shayne Martinez,8:00:00,16:00:00,D412,
+2024-12-11,420601VA,1,Internship,Tassia Camoes-Araujo,8:00:00,16:00:00,A103,
+2024-12-11,145122VA,01-02-03,Companion Animal Care I,Caroline Senay,9:00:00,11:00:00,N416,
+2024-12-11,145526VA,01-02,Biochemistry and Hematology f,Tamara Clarke,9:00:00,12:00:00,N458,
+2024-12-11,201316VA,1,Business Data Analysis,Liam Peuckert,9:00:00,12:00:00,D546,
+2024-12-11,180312VA,1,Nursing and Health Challenges,Doreen Madalena Machado,9:00:00,12:00:00,D506,
+2024-12-11,201NYB05,1,Calculus II,Chantal Linda Desrosiers,9:00:00,12:00:00,GYM,"A,B"
+2024-12-11,201NYB05,2,Calculus II,Martin Daniel Caberlin,9:00:00,12:00:00,GYM,"C,D"
+2024-12-11,201NYB05,3,Calculus II,Petr Zorin,9:00:00,12:00:00,GYM,"E,F"
+2024-12-11,201NYB05,4,Calculus II,Anna Ewa Krasowska,9:00:00,12:00:00,GYM,"G,H"
+2024-12-11,221590VA,01-02,Project Manual,Giuseppe Bellantoni,9:00:00,12:00:00,N526/N536,
+2024-12-11,247112VA,01-02,Career Exploration Through Ap,Andreea Iftimie,9:00:00,12:00:00,N522,
+2024-12-11,603HSEVA,3,English Social Science Milieu,Eric Durling,9:00:00,12:00:00,A311,
+2024-12-11,551TH1VA,1,Theory I,Alan Campbell,9:30:00,11:30:00,A254,
+2024-12-11,551TH1VA,2,Theory I,Glen Ethier,9:30:00,11:30:00,A250,
+2024-12-11,551TH1VA,03-04,Theory I,Roderick Philip Shergold,9:30:00,11:30:00,A204,
+2024-12-11,551TH1VA,5,Theory I,Philippe Bourque,9:30:00,11:30:00,A274,
+2024-12-11,551TH2VA,1,Theory II,Roderick Philip Shergold,9:30:00,11:30:00,A204,
+2024-12-11,551TH3VA,1,Theory III,Alan Campbell,9:30:00,12:00:00,A254,
+2024-12-11,551TH3VA,2,Theory III,Glen Ethier,9:30:00,12:00:00,A250,
+2024-12-11,551TH4VA,1,Theory IV,Glen Ethier,9:30:00,11:30:00,A250,
+2024-12-11,551TH4VA,2,Theory IV,Glen Ethier,9:30:00,11:30:00,A250,
+2024-12-11,360300VA,1,Quantitative Methods,Nirmala Bains,10:00:00,12:00:00,A314,
+2024-12-11,360300VA,2,Quantitative Methods,Carla Lipscombe,10:00:00,12:00:00,A340,
+2024-12-11,360300VA,3,Quantitative Methods,Abdelkrim Hammi,10:00:00,12:00:00,A342,
+2024-12-11,221360VA,01-02,Statics and Wood Construct,Hossein Khalili,13:00:00,15:00:00,N426/N436,
+2024-12-11,201HTH05,1,Probability and Statistics,Ivan T. Ivanov,13:00:00,16:00:00,B502,
+2024-12-11,201SN2RE,5,Differential Calculus,Elena Naidenova,13:00:00,16:00:00,GYM,"I,J"
+2024-12-11,201SN2RE,8,Differential Calculus,Chantal Linda Desrosiers,13:00:00,16:00:00,GYM,"O,P"
+2024-12-11,201SN2RE,2,Differential Calculus,Julie Plante,13:00:00,16:00:00,GYM,"C,D"
+2024-12-11,201SN2RE,12,Differential Calculus,Ashkan Zahedi Khomeyrani,13:00:00,16:00:00,GYM,"W,X"
+2024-12-11,201SN2RE,3,Differential Calculus,Galyna P. Feshchenko,13:00:00,16:00:00,GYM,"E,F"
+2024-12-11,201SN2RE,6,Differential Calculus,Elena Naidenova,13:00:00,16:00:00,GYM,"K,L"
+2024-12-11,201SN2RE,11,Differential Calculus,Geeta Johal,13:00:00,16:00:00,GYM,"U,V"
+2024-12-11,201SN2RE,9,Differential Calculus,Chantal Linda Desrosiers,13:00:00,16:00:00,GYM,"Q,R"
+2024-12-11,201SN2RE,7,Differential Calculus,Liam Peuckert,13:00:00,16:00:00,GYM,"M,N"
+2024-12-11,201SN2RE,1,Differential Calculus,Stephen Newbigging,13:00:00,16:00:00,GYM,"A,B"
+2024-12-11,201SN2RE,4,Differential Calculus,Sherif Wagdy Nashaat,13:00:00,16:00:00,GYM,"G,H"
+2024-12-11,201SN2RE,10,Differential Calculus,Farid Sandoghdar,13:00:00,16:00:00,GYM,"S,T"
+2024-12-11,247307VA,1,Microcontroller and Microproc,Day Yann Fong,13:00:00,16:00:00,A340,
+2024-12-11,603103MQ,13,Literary Themes,Eric Durling,13:00:00,16:00:00,A329,
+2024-12-12,141HSA04,01-02-03,Introduction the Profession - Oral,Jennifer Piette,8:00:00,16:00:00,D410,
+2024-12-12,141HSB05,01-02-03,Basic Instrumentation-Oral,Sharon Sagman,8:00:00,16:00:00,D410,
+2024-12-12,141HSE04,01-02-03,"Pulmonary testing, Diagnostic",Melanie Freitas,8:00:00,16:00:00,D442,
+2024-12-12,141HSG05,01-02-03,Mechanical Ventilators-Oral,Irene-Shayne Martinez,8:00:00,16:00:00,D412,
+2024-12-12,145122VA,01-02-03,Companion Animal Care I Lab,Caroline Senay,8:30:00,12:30:00,N475,
+2024-12-12,201391VA,1,Elements of Calculus,Galyna P. Feshchenko,9:00:00,12:00:00,D542,
+2024-12-12,201SN4RE,3,Linear Algebra & Vector Geom,Bahareh Mirza Hossein,9:00:00,12:00:00,A-308,
+2024-12-12,201SN4RE,1,Linear Algebra & Vector Geom,Isaac Sabbah,9:00:00,12:00:00,A-302,
+2024-12-12,201SN4RE,2,Linear Algebra & Vector Geom,Martin Daniel Caberlin,9:00:00,12:00:00,A-306,
+2024-12-12,202NYA05,01-02,General Chemistry,Mauro Di Renzo,9:00:00,12:00:00,GYM,"I,J"
+2024-12-12,202SN1RE,23,General Chemistry: Matter,Thi Ngoc-Thanh Vu,9:00:00,12:00:00,GYM,W
+2024-12-12,202SN1RE,21-22,General Chemistry: Matter,Philippe Brunet,9:00:00,12:00:00,GYM,"U,V"
+2024-12-12,202SN1RE,15-16,General Chemistry: Matter,Carl Mercadante,9:00:00,12:00:00,GYM,"O,P"
+2024-12-12,202SN1RE,17-18,General Chemistry: Matter,Salvatore Ruffolo,9:00:00,12:00:00,GYM,"Q,R"
+2024-12-12,202SN1RE,01-02,General Chemistry: Matter,Swaleha Atchia,9:00:00,12:00:00,GYM,"A,B"
+2024-12-12,202SN1RE,13-14,General Chemistry: Matter,Monica Mehna,9:00:00,12:00:00,GYM,"M,N"
+2024-12-12,202SN1RE,19-20,General Chemistry: Matter,John William Tromp,9:00:00,12:00:00,GYM,"S,T"
+2024-12-12,202SN1RE,11-12,General Chemistry: Matter,Alieh Kazemeini,9:00:00,12:00:00,A502,
+2024-12-12,202SN1RE,03-04,General Chemistry: Matter,Henry Samuel Calderon,9:00:00,12:00:00,GYM,"C,D"
+2024-12-12,202SN1RE,09-10,General Chemistry: Matter,Rejean Forand,9:00:00,12:00:00,GYM,"K,L"
+2024-12-12,202SN1RE,07-08,General Chemistry: Matter,Mauro Di Renzo,9:00:00,12:00:00,GYM,"G,H"
+2024-12-12,202SN1RE,05-06,General Chemistry: Matter,Nicholas Deligiannis,9:00:00,12:00:00,GYM,"E,F"
+2024-12-12,201208VA,5,Linear Algebra for Social Sci,Florian Duquerroix,13:00:00,15:50,D546,
+2024-12-12,201208VA,1,Linear Algebra for Social Sci,Julie Plante,13:00:00,15:50,D508,
+2024-12-12,201208VA,3,Linear Algebra for Social Sci,Antoine Khalil,13:00:00,15:50,D506,
+2024-12-12,201208VA,6,Linear Algebra for Social Sci,Michel Andre Besner,13:00:00,15:50,D543,
+2024-12-12,201208VA,7,Linear Algebra for Social Sci,Ashkan Zahedi Khomeyrani,13:00:00,15:50,D541,
+2024-12-12,201208VA,2,Linear Algebra for Social Sci,Alhan Shahab Al-De Zahrai,13:00:00,15:50,D542,
+2024-12-12,201208VA,4,Linear Algebra for Social Sci,Geeta Johal,13:00:00,15:50,D505,
+2024-12-12,145314VA,1,Urban Ecology,Quentin Van Ginhoven,13:00:00,16:00:00,N367,
+2024-12-12,201104VA,1,Math for Electrical Engineeri,Petr Zorin,13:00:00,16:00:00,C402,
+2024-12-12,202NYB05,01-02,Chemistry of Solutions,Swaleha Atchia,13:00:00,16:00:00,GYM,"A,B"
+2024-12-12,202NYB05,03-04,Chemistry of Solutions,Henry Samuel Calderon,13:00:00,16:00:00,GYM,"C,D"
+2024-12-12,202NYB05,05-06,Chemistry of Solutions,Carl Mercadante,13:00:00,16:00:00,GYM,"E,F"
+2024-12-12,202NYB05,07-08,Chemistry of Solutions,Alieh Kazemeini,13:00:00,16:00:00,A314,
+2024-12-13,180111VA,01-02,Introduction to Nursing and H,Karalee McKoy,8:00:00,12:00:00,N124,
+2024-12-13,180311VA,1,Nursing and Health Challenges,Nathalie Seguin,8:00:00,12:00:00,D543,
+2024-12-13,603103MQ,11,Literary Themes,Erin MacLeod,8:00:00,12:00:00,A342,
+2024-12-13,145527VA,01-02,The Art of Client Services,Tania Lefebvre,8:00:00,14:00:00,N429,
+2024-12-13,141HSFVA,01-02-03,Cardiovascular Diagnostics &,Chester Moran,9:00:00,12:00:00,D508,
+2024-12-13,202HTJ05,01-02,Organic Chemistry I,Philippe Brunet,9:00:00,12:00:00,GYM,"A,B"
+2024-12-13,202HTJ05,03-04,Organic Chemistry I,Jailson Farias de Lima,9:00:00,12:00:00,GYM,"C,D"
+2024-12-13,202HTJ05,05-06,Organic Chemistry I,Jailson Farias de Lima,9:00:00,12:00:00,GYM,"E,F"
+2024-12-13,202HTJ05,7,Organic Chemistry I,Chun Chi Mak,9:00:00,12:00:00,D546,
+2024-12-13,145115VA,1,Working in the Environment: P,Brandee Diner,10:00:00,12:00:00,Pool,
+2024-12-13,221570VA,01-02-03,Building Systems Integration,Hossein Khalili,10:00:00,12:00:00,N426/N436,
+2024-12-13,145121VA,01-02,Introduction AHT profession lab,Sara Varano,10:00:00,13:00:00,N421,
+2024-12-13,145115VA,1,Working in the Environment: P,Brandee Diner,13:00:00,15:00:00,Pool,
+2024-12-13,105003RE,01-02,Mise à niveau pour Science et,Thana Ghunaim,13:00:00,16:00:00,A329,
+2024-12-13,201SF5RE,2,Discrete Mathematics,Ivan T. Ivanov,13:00:00,16:00:00,A342,
+2024-12-13,201SF5RE,3,Discrete Mathematics,Geeta Johal,13:00:00,16:00:00,N526/N536,
+2024-12-13,201SF5RE,1,Discrete Mathematics,Thomas Henry Hughes,13:00:00,16:00:00,N526/N536,
+2024-12-13,203001RE,01-02,Mise à niveau pour Physique d,Hode Erdogan,13:00:00,16:00:00,A569,
+2024-12-13,247509VA,1,Network Systems Design,Day Yann Fong,13:00:00,16:00:00,D541,
+2024-12-13,603102MQ,13,Literary Genres,Anthony Granato,13:00:00,16:00:00,C402,
+2024-12-13,603102MQ,18,Literary Genres,Aurora Flewwelling-Skup,13:00:00,17:00:00,A302,
+2024-12-13,603102MQ,15,Literary Genres,Matthew Goldberg,13:00:00,16:00:00,B502,
+2024-12-13,603HSEVA,08-09,English Social Science Milieu,Jason Michael Katz,13:00:00,16:00:00,N426/N436,
+2024-12-13,145527VA,01-02,The Art of Client Services-Oral,Tania Lefebvre,14:00:00,16:00:00,N422,
+2024-12-16,180511VA,1,Nursing and Health Challenges,Linda Carol Quinn,8:00:00,12:00:00,N568,
+2024-12-16,141HSB05,01-02-03,Basic Instrumentation,Sharon Sagman,9:00:00,12:00:00,D508,
+2024-12-16,141HSG05,01-02-03,Mechanical Ventilators,Irene-Shayne Martinez,9:00:00,12:00:00,D506,
+2024-12-16,201HTJ05,1,Calculus III,Evgenij Kritchevski,9:00:00,12:00:00,D543,
+2024-12-16,203NYA05,01-02,Mechanics,Qi Luo,9:00:00,12:00:00,A569,
+2024-12-16,203SN1RE,07-08,Mechanics,Wissam Chaya,9:00:00,12:00:00,GYM,"G,H"
+2024-12-16,203SN1RE,23,Mechanics,Nicholas Park,9:00:00,12:00:00,GYM,L
+2024-12-16,203SN1RE,19-20,Mechanics,Stephan Bourget,9:00:00,12:00:00,GYM,"U,V"
+2024-12-16,203SN1RE,21-22,Mechanics,Stephen Cohen,9:00:00,12:00:00,GYM,"W,X"
+2024-12-16,203SN1RE,13-14,Mechanics,Yongfang Zhang,9:00:00,12:00:00,GYM,"O,P"
+2024-12-16,203SN1RE,09-10,Mechanics,Kevin James Lenton,9:00:00,12:00:00,GYM,"I,J"
+2024-12-16,203SN1RE,11-12,Mechanics,Nuzhat Fatima Jilani,9:00:00,12:00:00,GYM,"M,N"
+2024-12-16,203SN1RE,03-04,Mechanics,Gabriel Bulgarea,9:00:00,12:00:00,GYM,"C,D"
+2024-12-16,203SN1RE,15-16,Mechanics,Thana Ghunaim,9:00:00,12:00:00,GYM,"Q,R"
+2024-12-16,203SN1RE,01-02,Mechanics,Hode Erdogan,9:00:00,12:00:00,GYM,"A,B"
+2024-12-16,203SN1RE,05-06,Mechanics,Jicai Pan,9:00:00,12:00:00,GYM,"E,F"
+2024-12-16,203SN1RE,17-18,Mechanics,Stefan Bracher,9:00:00,12:00:00,GYM,"S,T"
+2024-12-16,145523VA,01-02,Animal Research Methods,Renée Irene Le Cavalier,10:00:00,12:00:00,N426/N436,
+2024-12-16,201203VA,2,Calculus II,Antoine Khalil,13:00:00,16:00:00,A308,
+2024-12-16,201016RE,1,Mise à niveau pour Mathématiq,Ellen Cooper,13:00:00,16:00:00,N124,
+2024-12-16,201016RE,2,Mise à niveau pour Mathématiq,Adrian Bradley,13:00:00,16:00:00,N124,
+2024-12-16,201016RE,3,Mise à niveau pour Mathématiq,Thomas Henry Hughes,13:00:00,16:00:00,N124,
+2024-12-16,202126VA,01-02,Chemistry I for AHT,John William Tromp,13:00:00,16:00:00,N522,
+2024-12-16,202HTF05,01-02,Chemistry: Food and Drugs,Rejean Forand,13:00:00,16:00:00,GYM,"M,N"
+2024-12-16,203NYC05,01-02,"Waves, Optics and Modern Phys",Jicai Pan,13:00:00,16:00:00,GYM,"A,B"
+2024-12-16,203NYC05,03-04,"Waves, Optics and Modern Phys",Wissam Chaya,13:00:00,16:00:00,GYM,"C,D"
+2024-12-16,203NYC05,05-06,"Waves, Optics and Modern Phys",Rhys Adams,13:00:00,16:00:00,GYM,"E,F"
+2024-12-16,203NYC05,07-08,"Waves, Optics and Modern Phys",Yongfang Zhang,13:00:00,16:00:00,GYM,"G,H"
+2024-12-16,203NYC05,09-10,"Waves, Optics and Modern Phys",Constantine Papadatos,13:00:00,16:00:00,GYM,"I,J"
+2024-12-16,203NYC05,11,"Waves, Optics and Modern Phys",Stephan Bourget,13:00:00,16:00:00,GYM,K
+2024-12-16,203NYC05,12-13,"Waves, Optics and Modern Phys",Kreshnik Angoni,13:00:00,16:00:00,GYM,"M,N"
+2024-12-16,603101MB,42,Lit & Comp,Aurora Flewwelling-Skup,13:00:00,17:00:00,A312,
+2024-12-17,141HSFVA,01-02-03,Cardiovascular Diagnostics & Oral,Chester Moran,8:00:00,16:00:00,D412,
+2024-12-17,141HSUVA,01-02-03,Resp. & Anaet. Pharmacology-Oral,Jennifer Piette,8:00:00,16:00:00,D410,
+2024-12-17,221130VA,01-02-03,Intro to Architectural Techno,Jeffrey Johnston,8:00:00,12:00:00,N426/N436,
+2024-12-17,145322VA,01-02-03,Clinical Nursing for AHT,Tamara Clarke,9:00:00,12:00:00,N458,
+2024-12-17,201015RE,2,Mise à niveau pour Mathématiq,Evgenij Kritchevski,9:00:00,12:00:00,A311,
+2024-12-17,201015RE,1,Mise à niveau pour Mathématiq,Michel Andre Besner,9:00:00,12:00:00,A329,
+2024-12-17,203NYB05,03-04,Electricity and Magnetism,Nuzhat Fatima Jilani,9:00:00,12:00:00,GYM,"C,D"
+2024-12-17,203NYB05,05-06,Electricity and Magnetism,Qi Luo,9:00:00,12:00:00,D543,
+2024-12-17,203NYB05,07-08,Electricity and Magnetism,Jacques Mainville,9:00:00,12:00:00,GYM,"E,F"
+2024-12-17,203NYB05,09-10,Electricity and Magnetism,Stefan Bracher,9:00:00,12:00:00,GYM,"G,H"
+2024-12-17,203NYB05,11,Electricity and Magnetism,Constantine Papadatos,9:00:00,12:00:00,GYM,"I,J"
+2024-12-17,145524VA,01-02,Care of Large and Exotic Anim,Jennifer Jobin,10:00:00,12:00:00,N322,
+2024-12-17,145121VA,01-02,Introduction to the AHT Profession,Sara Varano,13:00:00,16:00:00,N422,
+2024-12-17,203491VA,01-02,Strength of Materials,Nicholas Park,13:00:00,16:00:00,N522,
+2024-12-17,247511VA,1,Microcontroller Applications,Serge Hould,13:00:00,16:00:00,D541,
+2024-12-19,603103MQ,29,Literary Themes,Carly Rosalie Vandergriendt,8:00:00,12:00:00,N416,
+2024-12-19,101NYA05,01-02,General Biology I,Elephterios Terry Saropoulos,9:00:00,12:00:00,GYM,"A,B"
+2024-12-19,101NYA05,03-04,General Biology I,Stephanie Margaret Felkai,9:00:00,12:00:00,GYM,"C,D"
+2024-12-19,101NYA05,05-06,General Biology I,Lissiene Silva Neiva,9:00:00,12:00:00,GYM,"E,F"
+2024-12-19,101NYA05,07-08,General Biology I,Karl Laroche,9:00:00,12:00:00,GYM,"G,H"
+2024-12-19,101NYA05,09-10,General Biology I,Christopher Gregg,9:00:00,12:00:00,N526/N536,
+2024-12-19,101NYA05,11-12,General Biology I,Fallah Hassan Chit,9:00:00,12:00:00,GYM,"I,J"
+2024-12-19,101NYA05,14,General Biology I,Anne-Sophie Caron,9:00:00,12:00:00,GYM,K
+2024-12-19,101NYA05,13,General Biology I,Christopher Gregg,9:00:00,12:00:00,N526/N536,
+2024-12-19,141HSA04,01-02-03,Introduction the Profession,Jennifer Piette,9:00:00,12:00:00,D508,
+2024-12-19,145321VA,1,Animal Nutrition Basics,Jennifer Jobin,10:00:00,12:00:00,N322,
+2024-12-19,603101MB,63,Lit & Comp,Anthony Granato,13:00:00,16:00:00,N426/N436,
+2024-12-19,603101MC,107,Effective Reading and Writing,Anthony Granato,13:00:00,16:00:00,N426/N436,
+2024-12-19,101HTK05,01-02,General Biology II,Edward William Awad,13:00:00,16:00:00,GYM,"A,B"
+2024-12-19,101HTK05,03-04,General Biology II,Stephanie Margaret Felkai,13:00:00,16:00:00,GYM,"C,D"
+2024-12-19,101HTK05,5,General Biology II,Anne-Sophie Caron,13:00:00,16:00:00,GYM,E
+2024-12-19,141HSUVA,01-02-03,Resp. & Anaet. Pharmacology,Jennifer Piette,13:00:00,16:00:00,D508,
+2024-12-19,221150VA,02-03,Design and Presentation 1,Lisa Rosalind Yachnin,13:00:00,16:00:00,N124,
+2024-12-19,603101MA,15,Intro to College English,Jason Michael Katz,13:00:00,16:00:00,A308,
+2024-12-19,603101MA,16,Intro to College English,Matthew Goldberg,13:00:00,16:00:00,N522,
